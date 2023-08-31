@@ -1,0 +1,47 @@
+body{
+    max-height: 100vh;
+}
+.header{
+    border: 3px black solid;
+    text-align: center;
+    height: 50px;
+    
+}
+.nav{
+    border: 3px black solid;
+    text-align: center;
+    height: 50px;
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+    }
+.nav-buttons-group{
+    border: 3px black solid;
+    /* text-align: center; */
+    height: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.hero{
+    border: 3px red solid;
+    text-align: center;
+    height: 25px;
+}
+.main-section{
+    border: 3px black solid;
+    text-align: center;
+    height: 325px;
+    
+}
+.lower-nav-buttons-group{
+    border: 3px black solid;
+    /* text-align: center; */
+    height: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    border: 3px black solid;
+    text-align: center;
+    height: 50px;
+    
+}
