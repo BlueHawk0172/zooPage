@@ -1,5 +1,9 @@
 body{
     max-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZDAzN2FhMTgtMzg5YS00ZDFkLWFiMTUtZTVmMzk4ZjEyMmJmXkEyXkFqcGdeQXVyNjkzMjkzMTY@._V1_.jpg")
 }
 .header{
     border: 3px black solid;
@@ -17,14 +21,16 @@ body{
 .nav-buttons-group{
     border: 3px black solid;
     /* text-align: center; */
-    height: 25px;
+    height: 50px;
     display: flex;
     justify-content: space-evenly;
 }
 .hero{
     border: 3px red solid;
     text-align: center;
-    height: 25px;
+    height: 100px;
+   
+        
 }
 .main-section{
     border: 3px black solid;
